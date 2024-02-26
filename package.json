@@ -1,11 +1,14 @@
 {
   "repository": {
+    "type": "github",
     "url": "https://github.com/MicheleAwada/quick-import-vscode-extension"
   },
+  "icon": "icon.png",
+  "publisher": "MicheleAwada",
   "name": "quick-import",
   "displayName": "quick import",
   "description": "quickly import selected text by pressing a shortcut",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.86.0"
   },

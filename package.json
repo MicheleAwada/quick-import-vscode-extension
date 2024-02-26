@@ -1,4 +1,7 @@
 {
+  "repository": {
+    "url": "https://github.com/MicheleAwada/quick-import-vscode-extension"
+  },
   "name": "quick-import",
   "displayName": "quick import",
   "description": "quickly import selected text by pressing a shortcut",
